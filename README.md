@@ -1,4 +1,4 @@
-# Zomato Global Restaurant Data Analysis - Power BI Report
+# Zomato Global Restaurants Data Analysis - Power BI Report
 ============================================================
 
 This repository contains the Power BI report visualizing Zomato restaurant data across 6 continents. The dashboard provides insights into various aspects of restaurant performance, including customer ratings, average cost of two  people, cuisine served, and online delivery availability etc.
